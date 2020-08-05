@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**skcshubham/skcshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**skcshubham/skcshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Competitive Coding.
 - 💬 Ask me about life and Algorithms.
 - ⚡ Fun fact: I have left Social Media for 6+ months now.
--->
