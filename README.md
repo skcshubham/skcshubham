@@ -10,3 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Competitive Coding.
 - 💬 Ask me about life and Algorithms.
 - ⚡ Fun fact: I have left Social Media for 6+ months now.
+
+
+<img align="left" alt="skcshubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skcshubham&show_icons=true&hide_border=true" />
