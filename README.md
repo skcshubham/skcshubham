@@ -13,5 +13,3 @@ Here are some ideas to get you started:
 
 
 <img align="left" alt="skcshubham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=skcshubham&show_icons=true&hide_border=true" />
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skcshubham&layout=compact)](https://github.com/skcshubham/github-readme-stats)
