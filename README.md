@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on C++14 and JavaScript. 
 - 🌱 I’m currently learning Dynamic and Parallel Programming. 
-- 👯 I’m looking to collaborate on Competitive Coding.
+- 👯 I’m currently reading "Atomic Habits" by James Clear.
 - 💬 Ask me about life and Algorithms.
 - ⚡ Fun fact: I have left Social Media for over 6 months now.
 
