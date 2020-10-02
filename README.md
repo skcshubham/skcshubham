@@ -5,11 +5,11 @@
 
 About me: <p> <img src="https://komarev.com/ghpvc/?username=skcshubham" alt="skcshubham" /> </p>
 
-- 🔭 I’m currently working on C++14 and JavaScript. 
-- 🌱 I’m currently learning Dynamic and Parallel Programming. 
+- 🔭 I’m currently working on C++ and JavaScript. 
+- 🌱 I’m currently learning Backtracking Algorithms and Dynamic Programming. 
 - 👯 I’m currently reading "Atomic Habits" by James Clear.
 - 💬 Ask me about life and Algorithms.
-- ⚡ Fun fact: I have left Social Media for over 6 months now.
+- ⚡ Fun fact: I have left all Social Media for over 7 months now.
 
 **Languages and Tools:**  
 
