@@ -5,11 +5,11 @@
 
 About me: <p> <img src="https://komarev.com/ghpvc/?username=skcshubham" alt="skcshubham" /> </p>
 
-- 🔭 I’m currently working on C++ and JavaScript. 
-- 🌱 I’m currently learning Backtracking Algorithms and Dynamic Programming. 
-- 👯 I’m currently reading "Atomic Habits" by James Clear.
+- 🔭 I’m currently working on C++17.
+- 🌱 I’m currently learning Algorithms. 
+- 👯 I’m currently reading "Death by Black Hole" by Sir Neil deGrasse Tyson.
 - 💬 Ask me about life and Algorithms.
-- ⚡ Fun fact: I have left all Social Media for over 7 months now.
+- ⚡ Fun fact: I hate Instagram and Facebook.
 
 **Languages and Tools:**  
 
