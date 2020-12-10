@@ -5,7 +5,7 @@
 
 About me: <p> <img src="https://komarev.com/ghpvc/?username=skcshubham" alt="skcshubham" /> </p>
 
-- 🔭 I’m currently working on C++17.
+- 🔭 I’m currently working on myself.
 - 🌱 I’m currently learning Algorithms. 
 - 👯 I’m currently reading "Death by Black Hole" by Sir Neil deGrasse Tyson.
 - 💬 Ask me about life and Algorithms.
