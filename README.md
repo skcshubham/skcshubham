@@ -9,7 +9,7 @@ About me: <p> <img src="https://komarev.com/ghpvc/?username=skcshubham" alt="skc
 - 🌱 I’m currently learning Algorithms. 
 - 👯 I’m currently reading "Death by Black Hole" by Sir Neil deGrasse Tyson.
 - 💬 Ask me about life and Algorithms.
-- ⚡ Fun fact: I hate Instagram and Facebook.
+- ⚡ Fun fact: I don't need your Social Validation.
 
 **Languages and Tools:**  
 
