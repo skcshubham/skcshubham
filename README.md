@@ -3,7 +3,7 @@
 <!--
 **skcshubham/skcshubham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-About me: <p> <img src="https://komarev.com/ghpvc/?username=skcshubham" alt="skcshubham" /> </p>
+About me:
 
 - 🔭 I’m currently working on ReactJS.
 - 🌱 I’m currently learning Algorithms. 
