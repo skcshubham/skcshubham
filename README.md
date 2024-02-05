@@ -5,7 +5,7 @@
 
 About me:
 
-- 🔭 I’m currently working on Web at ElasticRun.
+- 🔭 I’m currently working on solving industrial automation problems at BotSync.
 - 👯 I’m currently reading "Death by Black Hole" by Sir Neil deGrasse Tyson.
 - 💬 Ask me about life and football.
 - ⚡ Fun fact: I am Trypophobic.
